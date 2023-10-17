@@ -1,10 +1,10 @@
 # MNBVC-Pretrain-Dataset
-The Cleaned dataset for MNBVC
+The Cleaned dataset donews数据集 for MNBVC
 
 # tokens with LLaMA tokenizer
 "total_llama_tokens": 26901649<br>
 
-# donew数据集，原有 18402 篇文章，清洗掉 3866篇，剩余 14536 篇文章，共包括 5 个jsonl文件，每个不超过 25M，每行格式：
+# donews数据集，原有 18402 篇文章，清洗掉 3866篇，剩余 14536 篇文章，共包括 5 个jsonl文件，每个不超过 25M，每行格式：
 {<br>
   "文件名": "donews", <br>
   "是否待查文件": false, <br>
