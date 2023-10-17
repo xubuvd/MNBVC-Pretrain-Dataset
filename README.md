@@ -3,6 +3,7 @@ The Cleaned dataset donews数据集 for MNBVC
 
 # tokens with LLaMA tokenizer
 "total_llama_tokens": 26901649<br>
+本数据集总共含有 0.269 B tokens<br>
 
 # donews数据集，原有 18402 篇文章，清洗掉 3866篇，剩余 14536 篇文章，共包括 5 个jsonl文件，每个不超过 25M，每行格式：
 {<br>
